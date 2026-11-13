@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="100" cy="100" r="97" stroke-width="1.6"/>
+<circle cx="100" cy="100" r="92" stroke-width="0.6"/>
+<circle cx="100" cy="100" r="78" stroke-width="1.2"/>
+<circle cx="100" cy="100" r="74.5" stroke-width="0.5" stroke-dasharray="1.5 2.5"/>
+<g transform="rotate(0.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 2l4-2M1 5l4-2" stroke-width="1.6"/></g>
+<g transform="rotate(12.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 10V0l4 3v7" stroke-width="1.6"/></g>
+<g transform="rotate(24.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 3l4 2-4 2" stroke-width="1.6"/></g>
+<g transform="rotate(36.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 0l4 3M1 4l4 3" stroke-width="1.6"/></g>
+<g transform="rotate(48.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 0l4 2.5-4 2.5 4 5" stroke-width="1.6"/></g>
+<g transform="rotate(60.00 100 100) translate(97 9.5) scale(0.62)"><path d="M5 0 1 5l4 5" stroke-width="1.6"/></g>
+<g transform="rotate(72.00 100 100) translate(97 9.5) scale(0.62)"><path d="M0 0l6 10M6 0 0 10" stroke-width="1.6"/></g>
+<g transform="rotate(84.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 0l4 3-4 3" stroke-width="1.6"/></g>
+<g transform="rotate(96.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M5 0V10M1 3l4 4" stroke-width="1.6"/></g>
+<g transform="rotate(108.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0V10M1 3l4 4" stroke-width="1.6"/></g>
+<g transform="rotate(120.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0V10" stroke-width="1.6"/></g>
+<g transform="rotate(132.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0V10M0 4l3-2 3 2M0 6l3 2 3-2" stroke-width="1.6"/></g>
+<g transform="rotate(144.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0 5 5 1 10M5 0 1 5l4 5" stroke-width="1.6"/></g>
+<g transform="rotate(156.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 10V4M3 4 0 0M3 4l3-4" stroke-width="1.6"/></g>
+<g transform="rotate(168.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0 0 3l3 3 3-3ZM0 6l3 4M6 6l-3 4" stroke-width="1.6"/></g>
+<g transform="rotate(180.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 2l4-2M1 5l4-2" stroke-width="1.6"/></g>
+<g transform="rotate(192.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 10V0l4 3v7" stroke-width="1.6"/></g>
+<g transform="rotate(204.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 3l4 2-4 2" stroke-width="1.6"/></g>
+<g transform="rotate(216.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 0l4 3M1 4l4 3" stroke-width="1.6"/></g>
+<g transform="rotate(228.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 0l4 2.5-4 2.5 4 5" stroke-width="1.6"/></g>
+<g transform="rotate(240.00 100 100) translate(97 9.5) scale(0.62)"><path d="M5 0 1 5l4 5" stroke-width="1.6"/></g>
+<g transform="rotate(252.00 100 100) translate(97 9.5) scale(0.62)"><path d="M0 0l6 10M6 0 0 10" stroke-width="1.6"/></g>
+<g transform="rotate(264.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M1 0l4 3-4 3" stroke-width="1.6"/></g>
+<g transform="rotate(276.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0V10M5 0V10M1 3l4 4" stroke-width="1.6"/></g>
+<g transform="rotate(288.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0V10M1 3l4 4" stroke-width="1.6"/></g>
+<g transform="rotate(300.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0V10" stroke-width="1.6"/></g>
+<g transform="rotate(312.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0V10M0 4l3-2 3 2M0 6l3 2 3-2" stroke-width="1.6"/></g>
+<g transform="rotate(324.00 100 100) translate(97 9.5) scale(0.62)"><path d="M1 0 5 5 1 10M5 0 1 5l4 5" stroke-width="1.6"/></g>
+<g transform="rotate(336.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 10V4M3 4 0 0M3 4l3-4" stroke-width="1.6"/></g>
+<g transform="rotate(348.00 100 100) translate(97 9.5) scale(0.62)"><path d="M3 0 0 3l3 3 3-3ZM0 6l3 4M6 6l-3 4" stroke-width="1.6"/></g>
+<g transform="rotate(0 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+<g transform="rotate(45 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+<g transform="rotate(90 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+<g transform="rotate(135 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+<g transform="rotate(180 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+<g transform="rotate(225 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+<g transform="rotate(270 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+<g transform="rotate(315 100 100)"><path d="M100 2.5 103 6 100 9.5 97 6Z" fill="currentColor" stroke="none"/></g>
+</svg>

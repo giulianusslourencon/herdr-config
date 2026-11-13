@@ -1,0 +1,10 @@
+[Unit]
+Description=Herdr Wrath: vigia o mod toast embutido do Herdr
+
+[Path]
+PathChanged=%h/.config/herdr-app/mods/toast/main.js
+PathChanged=%h/.config/herdr-app/installed.json
+Unit=wrath-toast.service
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b0c12"/><stop offset="1" stop-color="#0b0608"/>
+    </linearGradient>
+    <radialGradient id="rift" cx="0.62" cy="0.55" r="0.5">
+      <stop offset="0" stop-color="#7a1a1f" stop-opacity="0.55"/><stop offset="1" stop-color="#2b0c12" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="320" height="200" fill="url(#bg)"/>
+  <rect width="320" height="200" fill="url(#rift)"/>
+  <rect x="0" y="0" width="70" height="200" fill="#170d11"/>
+  <line x1="70" y1="0" x2="70" y2="200" stroke="#5a3a1e"/>
+  <g fill="#d4a24c" transform="translate(35 20)">
+    <path d="M0-9 L3-3 L9-3 L4 1 L6 8 L0 4 L-6 8 L-4 1 L-9-3 L-3-3Z"/>
+  </g>
+  <g fill="#806c57">
+    <rect x="10" y="44" width="46" height="4" rx="1"/><rect x="10" y="56" width="38" height="4" rx="1"/>
+    <rect x="10" y="68" width="42" height="4" rx="1"/>
+  </g>
+  <circle cx="13" cy="96" r="3" fill="#e8742a"/><rect x="20" y="94" width="34" height="4" rx="1" fill="#bfa883"/>
+  <circle cx="13" cy="108" r="3" fill="#d23a2f"/><rect x="20" y="106" width="28" height="4" rx="1" fill="#bfa883"/>
+  <circle cx="13" cy="120" r="3" fill="#e8c46a"/><rect x="20" y="118" width="32" height="4" rx="1" fill="#bfa883"/>
+  <rect x="70" y="0" width="250" height="18" fill="#1f1013"/>
+  <rect x="78" y="4" width="44" height="10" rx="2" fill="#41261a" stroke="#d4a24c" stroke-width="0.8"/>
+  <rect x="128" y="4" width="40" height="10" rx="2" fill="#21141a"/>
+  <rect x="78" y="24" width="114" height="160" rx="2" fill="#140c10" stroke="#d4a24c" stroke-width="1.6"/>
+  <rect x="198" y="24" width="114" height="160" rx="2" fill="#140c10" stroke="#5a3a1e"/>
+  <g font-family="monospace" font-size="7">
+    <text x="86" y="44" fill="#d4a24c">❯</text><text x="94" y="44" fill="#e9dcc0">claude</text>
+    <text x="86" y="56" fill="#7fa34a">✓ crusade ready</text>
+    <text x="86" y="68" fill="#c4302b">✗ demon at gate</text>
+    <text x="86" y="80" fill="#5b8fc7">wardstone</text><text x="132" y="80" fill="#a35bb8">abyss</text>
+    <rect x="86" y="86" width="5" height="8" fill="#f0c96a"/>
+    <text x="206" y="44" fill="#bfa883">~/kenabres</text>
+    <text x="206" y="56" fill="#5fb3a8">mythic path</text>
+  </g>
+  <rect x="70" y="188" width="250" height="12" fill="#0e0709"/>
+  <line x1="70" y1="188" x2="320" y2="188" stroke="#5a3a1e"/>
+</svg>

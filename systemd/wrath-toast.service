@@ -1,0 +1,7 @@
+[Unit]
+Description=Herdr Wrath: reaplica o toast traduzido depois que o Herdr restaura o original
+
+[Service]
+Type=oneshot
+ExecStartPre=/bin/sleep 3
+ExecStart=/usr/bin/python3 %h/.config/herdr-app/backgrounds/src/toast_patch.py

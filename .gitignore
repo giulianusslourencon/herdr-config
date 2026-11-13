@@ -1,0 +1,13 @@
+# Gerados pelo Herdr / runtime — nunca versionar
+gpui-kit.d.ts
+__pycache__/
+*.pyc
+*.bak-*
+*.pre-install
+*.log
+tesouro.json
+.tesouro-*
+
+# Lista local de repositórios vigiados (copiar de dominios.example.json)
+herdr-app/mods/wrath-heralds/dominios.json
+backgrounds/src/original/

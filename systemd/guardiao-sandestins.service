@@ -1,0 +1,16 @@
+[Unit]
+Description=Guardião dos sandestins: contém comandos do Claude Code que esgotam a memória
+Documentation=file://%h/.claude/grimorio/guardiao.py
+
+[Service]
+ExecStart=/usr/bin/python3 %h/.claude/grimorio/guardiao.py vigiar
+Restart=always
+RestartSec=5
+# o próprio guardião precisa sobreviver à fome de memória que combate
+OOMScoreAdjust=-500
+MemoryMax=64M
+Nice=-5
+CPUWeight=1000
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,12 @@
+{
+  "ativo": true,
+  "simular": false,
+  "mem_minima_gb": 1.2,
+  "psi_full_limite": 25.0,
+  "leituras": 3,
+  "intervalo_s": 2.0,
+  "rss_minimo_mb": 300,
+  "pausa_s": 15,
+  "notificar": true,
+  "som": "~/.config/herdr-app/sounds/encantamento-desfeito.wav"
+}

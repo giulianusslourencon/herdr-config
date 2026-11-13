@@ -1,0 +1,12 @@
+[Unit]
+Description=Ressurreição dos sandestins: reabre sessões do Claude Code no Herdr após perda do core
+Documentation=file://%h/.claude/grimorio/ressurreicao.py
+
+[Service]
+ExecStart=/usr/bin/python3 %h/.claude/grimorio/ressurreicao.py vigiar
+Restart=always
+RestartSec=5
+MemoryMax=64M
+
+[Install]
+WantedBy=default.target
